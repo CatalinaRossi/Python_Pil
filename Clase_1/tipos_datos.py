@@ -58,3 +58,5 @@ keys_usuario = list(usuario.keys())
 print(type(keys_usuario))
 print(usuario.get(keys_usuario[0]))
 
+print(usuario.values())
+

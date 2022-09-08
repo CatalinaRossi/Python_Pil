@@ -1,3 +1,4 @@
+# Salida
 print("Hello world!")
 print("Chauuuu world!")
 
@@ -13,3 +14,6 @@ print("Hola", "Mundo", sep = " ")
 # End
 print("Hola", "Mundo", end = " ")
 print("Chau Mundo")
+
+#Entrada 
+input("Ingrese un mensaje: ")
