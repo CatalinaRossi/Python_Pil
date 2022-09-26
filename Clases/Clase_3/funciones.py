@@ -22,6 +22,7 @@ print(resta())
 
 
 def saludo(cantidad_saludos):
+    """Funcion para saludar una cantidad de veces"""
     lista = []
     for i in range(cantidad_saludos):
         nombre = input("Ingrese su nombre: ")
@@ -30,6 +31,7 @@ def saludo(cantidad_saludos):
     return lista
 
 def orden(lista, sentido):
+    """Funcion que ordena una lista"""
     lista.sort(reverse=sentido)
     return lista
 
