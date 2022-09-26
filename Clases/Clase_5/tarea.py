@@ -43,4 +43,4 @@ antiterrorista_1.dar_golpe(terrorista_1)
 print(terrorista_1.get_vida())
 
 terrorista_1.dar_golpe(antiterrorista_1)
-print(f"despues de una bomba {antiterrorista_1.nombre} se quedó con {antiterrorista_1.get_vida()} de vida")
+print(f"Despues de una bomba {antiterrorista_1.nombre} se quedó con {antiterrorista_1.get_vida()} de vida")
